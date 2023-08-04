@@ -1,0 +1,11 @@
+{"email":"abdur0064@email.com","level":"info","message":"LOGIN_SUCCESSFUL","timeStamp":1691080421889}
+{"email":"abdur0049@email.com","level":"info","message":"LOGIN_SUCCESSFUL","timeStamp":1691080993543}
+{"email":"abdur0049@email.com","level":"info","message":"LOGIN_SUCCESSFUL","timeStamp":"2023-08-03T16:46:37.960Z"}
+{"level":"info","message":"LOGIN_FAILURE","reason":"user does not exist with IDabdur004@email.com","timeStamp":"2023-08-03T17:03:53.451Z"}
+{"level":"info","message":"LOGIN_FAILURE","reason":"incorrect password abdur0049@email.com","timeStamp":"2023-08-03T17:04:36.597Z"}
+{"email":"abdur0049@email.com","level":"info","message":"LOGIN_SUCCESSFUL","timeStamp":"2023-08-03T17:04:52.100Z"}
+{"level":"info","message":"LOGOUT_SUCCESSFUL","reason":"user with email : abdur0064@email.com logged out","timeStamp":"2023-08-03T17:06:40.832Z"}
+{"email":"steveRogers0049@email.com","level":"info","message":"SUCCESSFUL_REGISTRATION","timeStamp":"2023-08-03T17:08:06.875Z"}
+{"email":"abdur0049@email.com","level":"info","message":"LOGIN_SUCCESSFUL","timeStamp":"2023-08-04T15:35:03.805Z"}
+{"email":"abdurrahman0064@gmail.com","level":"info","message":"SUCCESSFUL_REGISTRATION","timeStamp":"2023-08-04T18:54:37.022Z"}
+{"email":"abdurrahman0064@gmail.com","level":"info","message":"LOGIN_SUCCESSFUL","timeStamp":"2023-08-04T18:56:05.959Z"}
