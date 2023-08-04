@@ -9,10 +9,10 @@ app.use(express.json());
 app.use("/api/v1/events", authMiddleWare, eventRoute);
 app.use("/api/v1/users", userRoute);
 const connectDB = async () => {
-  await mongoose.connect("mongodb://127.0.0.1:27017/evnt_mngt");
-  // await mongoose.connect(
-  //   "mongodb+srv://abdurrahman489:DloqFreHyGnu71nC@cluster0.agiqkwp.mongodb.net/"
-  // );
+  // await mongoose.connect("mongodb://127.0.0.1:27017/evnt_mngt");
+  await mongoose.connect(
+    "mongodb+srv://abdurrahman489:DloqFreHyGnu71nC@cluster0.agiqkwp.mongodb.net/"
+  );
 };
 
 connectDB()
